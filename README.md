@@ -1,8 +1,11 @@
 # Present Sir
 
-## Overview
 
-**Present Sir** is an IoT-based smart attendance tracking system designed to simplify and automate attendance management for educational institutions. This project integrates hardware and software solutions to provide an efficient, user-friendly experience for both teachers and students.
+
+## Overview
+It is an IOT bases startup in which we are making a hardware device to store and upload attendance on website. This device is the compititor of fingerprint scanner and face recognition attendance system and will fully minimise the use of registers. This project integrates hardware and software solutions to provide an efficient, user-friendly experience for both teachers and students.
+
+
 
 ## Features
 
@@ -26,11 +29,10 @@
 
 Feel free to contribute by opening issues or submitting pull requests! 🚀
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
+
 Gmail: team.presentsir@gmail.com
 
 ---
