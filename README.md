@@ -3,7 +3,7 @@
 
 
 ## Overview
-It is an IOT bases startup in which we are making a hardware device to store and upload attendance on website. This device is the compititor of fingerprint scanner and face recognition attendance system and will fully minimise the use of registers. This project integrates hardware and software solutions to provide an efficient, user-friendly experience for both teachers and students.
+This is an IOT bases startup in which we are making a hardware device to store and upload attendance on website. This device is the compititor of fingerprint scanner and face recognition attendance system and will fully minimise the use of registers. This project integrates hardware and software solutions to provide an efficient, user-friendly experience for both teachers and students.
 
 
 
