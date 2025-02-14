@@ -26,7 +26,7 @@ This is an IOT bases startup in which we are making a hardware device to store a
 
 ## Payment methods ( Donation & support )
 - **Funding**: Kindly mail us for funding on team.presentsir@gmail.com 
-- **Donation**: Donate here for our startup: ajayysinghh2004@0kaxis or UPI number: +916261769126
+- **Donation**: Donate here for our startup: ajayysinghh2004@okaxis or UPI number: +916261769126
 - Include a tag "psdonation" in chat after donation.
 - We will use your money in the development of the project.
 
