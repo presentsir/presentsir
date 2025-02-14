@@ -24,6 +24,19 @@ This is an IOT bases startup in which we are making a hardware device to store a
 - **Deployment**: Netlify/GitHub Pages (for any web dashboard)
 
 
+## Payment methods ( Donation & support )
+- **Funding**: Kindly mail us for funding on team.presentsir@gmail.com 
+- **Donation**: Donate here for our startup: ajayysinghh2004@0kaxis or UPI number: +916261769126
+- Include a tag "psdonation" in chat after donation.
+- We will use your money in the development of the project.
+
+## Team members and collaborators
+- **Ajay singh thakur**(Core member): Team lead, founder and CEO of the startup. He is responsible to write code in esp32 and flow of controls in website and application. He is also the market researcher and market trend analyst for this project. ID: https://github.com/Ajayysinghh03
+- **Nitesh chourasiya**(Core member): CTO and co-founder of the startup. He is the core contributor of the whole startup. He is responsible for the development of the application and backend of the website. Maximum technical decision around this starup is suggest by him. ID: https://github.com/jattu8602
+- **Om patel**(Core contributor): He is another co-founder of the starup and early joinee. He is responsible for the web interface and all the things related to UI/UX, App icon, designing and animation. The classy app icon is given by him. ID: https://github.com/workwithom
+
+
+
 
 ## Contribution
 
